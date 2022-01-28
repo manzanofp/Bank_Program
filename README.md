@@ -4,5 +4,5 @@
 
 <p align="center">
   <a href="https://imgur.com/a/MDTFxLJ"><img src="https://imgur.com/a/MDTFxLJ" width="350" /></a>
-  <a href="https://imgur.com/5eodjdp"><img src="https://imgur.com/5eodjdp" width="350" /></a>
+  <a href=""><img src="" width="350" /></a>
 </p>
